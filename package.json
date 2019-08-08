@@ -1,0 +1,26 @@
+{
+  "name": "structure-notification-bot",
+  "version": "0.0.1",
+  "description": "Minimalist Discord bot to mirror EVE Online notifications.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "oauth": "^0.9.15",
+    "swagger-client": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braye/structure-notification-bot.git"
+  },
+  "author": "Brett Raye",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/braye/structure-notification-bot/issues"
+  },
+  "homepage": "https://github.com/braye/structure-notification-bot#readme"
+}
